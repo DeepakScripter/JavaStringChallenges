@@ -4,29 +4,32 @@ This repository contains Java programs illustrating various string operations an
 
 ## Files
 
-- **ImmutableString.java**
-  - Java program illustrating String immutability. 🚀 'ImmutableString' showcases how strings remain unchanged after operations like concatenation and substring.
+1. **ConcatenateWords.java**
+   - Add Java program for concatenating words 🚀 This commit introduces a new Java program that demonstrates how to concatenate an array of words using StringBuilder. It efficiently concatenates the words and prints the resulting string.
 
-- **ImprovedAnagramChecker.java**
-  - Enhanced Java program for anagram checking. ✨ 'ImprovedAnagramChecker' efficiently checks if two input strings are anagrams, considering case and spaces.
+2. **ImmutableString.java**
+   - Java program illustrating String immutability. 🚀 'ImmutableString' showcases how strings remain unchanged after operations like concatenation and substring.
 
-- **StringComparison.java**
-  - Java program demonstrating string comparison methods. 'StringComparison' covers the use of equals(), equalsIgnoreCase(), and compareTo() for comparing strings. 🚀🔍
+3. **ImprovedAnagramChecker.java**
+   - Enhanced Java program for anagram checking. ✨ 'ImprovedAnagramChecker' efficiently checks if two input strings are anagrams, considering case and spaces.
 
-- **StringCreation.java**
-  - Exploring various methods of string creation in Java with 'StringCreation.' The methods include string literals, the new keyword, StringBuilder, StringBuffer, and more.
+4. **PalindromeChecker.java**
+   - Add Java program for checking if a string is a palindrome 🚀 This commit adds a Java program that enables users to check if a string is a palindrome efficiently. It includes detailed descriptions of its functionality and usage.
 
-- **StringMethods.java**
-  - Comprehensive exploration of Java String methods with 'StringMethods.' The program covers commonly used methods like length(), charAt(), substring(), indexOf(), toUpperCase(), and more.
+5. **StringComparison.java**
+   - Java program demonstrating string comparison methods. 'StringComparison' covers the use of equals(), equalsIgnoreCase(), and compareTo() for comparing strings. 🚀🔍
 
-- **StringPool.java**
-  - Exploring the String pool concept in Java with 'StringPool' program. It showcases the use of string literals and new String objects in the string pool.
+6. **StringCreation.java**
+   - Exploring various methods of string creation in Java with 'StringCreation.' The methods include string literals, the new keyword, StringBuilder, StringBuffer, and more.
 
-- **StringReverse.java**
-  - Java program for string reversal. 🔄 'StringReverse' uses a loop to reverse an input string and displays the original and reversed strings.
+7. **StringMethods.java**
+   - Comprehensive exploration of Java String methods with 'StringMethods.' The program covers commonly used methods like length(), charAt(), substring(), indexOf(), toUpperCase(), and more.
 
-## Contributions
+8. **StringPool.java**
+   - Exploring the String pool concept in Java with 'StringPool' program. It showcases the use of string literals and new String objects in the string pool.
 
-Contributions are welcome! If you have additional Java programs demonstrating interesting string operations or concepts, feel free to contribute.
+9. **StringReverse.java**
+    - Java program for string reversal. 🔄 'StringReverse' uses a loop to reverse an input string and displays the original and reversed strings.
 
-
+10. **SubstringCount.java**
+    - Add Java program for counting occurrences of a substring 🚀 This commit introduces a new Java program that counts the occurrences of a substring within a given string. It efficiently finds each occurrence using the indexOf() method and displays the count.
